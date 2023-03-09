@@ -15,6 +15,10 @@ This is a simple reverb plugin made with the JUCE DSP module.
 * Dry / Wet mix
 * Freeze
 
+### Video Link
+
+https://youtu.be/VXgEGejmi8o
+
 ### UI Manual
 
 - undo: cmd + z
