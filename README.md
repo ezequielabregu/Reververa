@@ -7,6 +7,14 @@ This is a simple reverb plugin made with the JUCE DSP module.
 
 &nbsp;
 
+### Features:
+
+* Room size
+* Time dampping
+* Room with
+* Dry / Wet mix
+* Freeze
+
 ### UI Manual
 
 - undo: cmd + z
